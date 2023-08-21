@@ -843,7 +843,7 @@ def cutter():
     AMXD(allkey)       
     
 def removef():
-        os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ...')
+        os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ')
         AMXD(allkey)            
  
 
